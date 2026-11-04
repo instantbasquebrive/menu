@@ -1,0 +1,1 @@
+Décompressez ce dossier. Sur GitHub, remplacez index.html et ajoutez tous les fichiers .jpg au même niveau que index.html. Conservez exactement les noms. Aucun sous-dossier images n’est nécessaire. Les images sont externes au code HTML.
